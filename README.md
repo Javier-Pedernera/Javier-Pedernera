@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am currently working as a biochemist at LIDMO. Histocompatibility laboratory.<br>⚡ I’m looking to collaborate on backend  projects.<br>📚 I am currently learning fullstack web developer in Henry's bootcamp.<br>🌱 I am looking for help to grow in my new life as a developer.
+🌱 I am looking for help to grow in my new life as a developer.
 
 
 ## 🌐 Socials:
